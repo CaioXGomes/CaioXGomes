@@ -1,4 +1,9 @@
-### Hi there 👋
+### And if you ask me to
+Daddy's gonna buy you a mockingbird
+I'ma give you the world
+I'ma buy a diamond ring for you
+I'ma sing for you
+I'll do anything for you, to see you smile
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioxgomes&show_icons=true&theme=synthwave&custom_title=StatusㅤdeㅤCaioXGomes)
 
