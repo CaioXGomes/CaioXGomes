@@ -5,7 +5,7 @@ I'ma buy a diamond ring for you
 I'ma sing for you
 I'll do anything for you, to see you smile
 
-qualquer dia eu arrumo essa disc aqui 
+qualquer dia eu arrumo essa disc aqui *EMOJI DE CHORO*
 
 
 
