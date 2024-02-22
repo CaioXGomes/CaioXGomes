@@ -1,4 +1,4 @@
-<h2 align="left">🤓FrontEnd que desenrola no Back</h2>
+<h2 align="left">🃏 <br> FrontEnd que desenrola no Back (づ ᴗ _ᴗ)づ♡  </h2>
 
 ###
 
@@ -41,11 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg" height="30" alt="phpunit logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   
 </div>
 
