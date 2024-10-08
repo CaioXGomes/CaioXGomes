@@ -1,4 +1,4 @@
-<h2 align="left">FrontEnd que desenrola no Back (づ ᴗ _ᴗ)づ♡  </h2>
+<h2 align="left">(づ ᴗ _ᴗ)づ♡  </h2>
 
 ###
 
